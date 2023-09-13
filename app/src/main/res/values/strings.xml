@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="quiz_app">QUIZ APP</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="start">START</string>
+    <string name="www">www</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="well_done">Well done!!</string>
+
+
+    <string name="title_activity_win">win</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="not_bad">Not bad!!</string>
+    <string name="_10_10">10/10</string>
+    <string name="todo">TODO</string>
+    <string name="better_luck_next_time">Better luck next time</string>
+
+</resources>
